@@ -5,10 +5,11 @@ Planning to implement the following SSMs:
  - [ ] Mamba
  - [ ] S4
  - [ ] S4ND
- Mamba Based on https://arxiv.org/abs/2312.00752
 
 ## Mamba Setup
-    
+
+Mamba Based on https://arxiv.org/abs/2312.00752
+
 ```bash
 # Download model weights
 mkdir pretrained && cd pretrained
